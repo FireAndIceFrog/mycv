@@ -2,6 +2,7 @@
   "name": "mycv",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://fireandicefrog.github.io/mycv/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -29,7 +30,7 @@
       "not dead",
       "not op_mini all"
     ],
-    "homepage": "https://fireandicefrog.github.io/mycv/",
+    
     "development": [
       "last 1 chrome version",
       "last 1 firefox version",
