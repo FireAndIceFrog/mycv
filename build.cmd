@@ -1,1 +1,1 @@
-rmdir /S /Q docs & yarn build && Rename  build  docs && git add * && git commit -a -m "Created a build"
+npm run deploy
